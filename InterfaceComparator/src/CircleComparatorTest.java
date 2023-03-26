@@ -6,6 +6,7 @@ public class CircleComparatorTest {
         Circle[] circles = new Circle[3];
         circles[0] = new Circle(3.6);
         circles[1] = new Circle();
+        circles[1].setColor("Blue");
         circles[2] = new Circle(3.5, "indigo", false);
 
         System.out.println("Pre-sorted:");

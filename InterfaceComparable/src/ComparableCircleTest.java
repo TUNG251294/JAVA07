@@ -10,7 +10,6 @@ public class ComparableCircleTest {
         for (ComparableCircle circle : circles) {
             System.out.println(circle);
         }
-
         Arrays.sort(circles);
 
         System.out.println("After-sorted:");

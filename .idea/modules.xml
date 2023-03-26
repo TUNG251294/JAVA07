@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalAndEdibleInterface/AnimalAndEdibleInterface.iml" filepath="$PROJECT_DIR$/AnimalAndEdibleInterface/AnimalAndEdibleInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cloneable/Cloneable.iml" filepath="$PROJECT_DIR$/Cloneable/Cloneable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparableDate/ComparableDate.iml" filepath="$PROJECT_DIR$/ComparableDate/ComparableDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparatorStudent/ComparatorStudent.iml" filepath="$PROJECT_DIR$/ComparatorStudent/ComparatorStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceComparator/InterfaceComparator.iml" filepath="$PROJECT_DIR$/InterfaceComparator/InterfaceComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceResizeable/InterfaceResizeable.iml" filepath="$PROJECT_DIR$/InterfaceResizeable/InterfaceResizeable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson07.iml" filepath="$PROJECT_DIR$/.idea/Lesson07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductComparator/ProductComparator.iml" filepath="$PROJECT_DIR$/ProductComparator/ProductComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestQuiz/TestQuiz.iml" filepath="$PROJECT_DIR$/TestQuiz/TestQuiz.iml" />
+    </modules>
+  </component>
+</project>
